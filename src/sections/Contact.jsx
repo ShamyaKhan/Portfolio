@@ -14,19 +14,19 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "pedro@example.com",
-    href: "mailto:pedro@example.com",
+    value: "md.shamiulhaque127@gmail.com",
+    href: "mailto:md.shamiulhaque127@gmail.com",
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+1 (555) 123-4567",
-    href: "tel:+15551234567",
+    value: "+880 1553540589",
+    href: "tel:+8801553540589",
   },
   {
     icon: MapPin,
     label: "Location",
-    value: "San Francisco, CA",
+    value: "Agargao, Dhaka",
     href: "#",
   },
 ];
@@ -66,7 +66,7 @@ const Contact = () => {
           email: formData.email,
           message: formData.message,
         },
-        publicKey
+        publicKey,
       );
 
       setSubmitStatus({
