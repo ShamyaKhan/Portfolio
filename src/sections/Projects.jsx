@@ -21,13 +21,12 @@ const projects = [
     github: "https://github.com/ShamyaKhan/Mini-YouTube",
   },
   {
-    title: "DevTinder",
-    description:
-      "A tinder-inspired platform for developers to connect with each other",
-    tags: ["React", "Express", "MongoDB", "Redux"],
-    image: "/projects/DevTinder-pic.png",
-    link: "https://devtinder-1-pdy4.onrender.com/",
-    github: "https://github.com/ShamyaKhan/DevTinder",
+    title: "Connect",
+    description: "A full-featured social media platform to connect with others",
+    tags: ["MERN", "ImageKit", "Clerk", "Redux"],
+    image: "/projects/Connect-pic.png",
+    link: "https://connect-fawn-kappa.vercel.app/",
+    github: "https://github.com/ShamyaKhan/Connect",
   },
 ];
 
